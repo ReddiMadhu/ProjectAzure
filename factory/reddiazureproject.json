@@ -1,0 +1,9 @@
+{
+	"name": "reddiazureproject",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eeb725da-4cd7-4f94-a1de-b6505861cb72",
+		"tenantId": "a28450a7-db8c-4c33-912a-443311b22ddb"
+	}
+}
